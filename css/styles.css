@@ -125,7 +125,7 @@ h3 {
   color: hsl(0, 0%, 100%);
   margin: 350px 612px 0 612px;
   font-size: 14px;
-
+  position: absolute;
   padding: 14px 70px 14px 70px;
   text-decoration: none;
   float: left;
